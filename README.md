@@ -1,5 +1,3 @@
-# 3-things-to-kno
-
 ## You need to know this 3 things if you want to work in tech
 ### What the Stack Overflow's developer survey data from 2021 tell us about the tech industry
 
