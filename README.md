@@ -44,3 +44,5 @@ Here we can see that we have a lot of options about any step of the process of i
 - Do not feel overwhelmed, just start doing things and you see how you will become better at doing it. 
 - At any feel, consider learning git and docker. 
 - NEVER STOP LEARNING
+
+For more detail, visit the repo: https://github.com/andresm97/stack-overflow-survey
