@@ -1,6 +1,9 @@
 ## You need to know this 3 things if you want to work in tech
 ### What the Stack Overflow's developer survey data from 2021 tell us about the tech industry
 
+
+![](/stack_overflow.png)
+
 Right now, the tech industry is a hot place where the youngest want to make a career. But, like anything else, there's a lot of information about good practices, where to start, how to become better, etc. So whit a lot of information, some people could paralyze trying to find a way to become better.
 With that in mind, we look through Stack Overflow's developer survey, trying to find some interesting ideas about how to improve your career (or even start it), what to do when you feel stuck and where are the better places to start learning.
 Whit no more to say, here are three things that will help you in your career:
